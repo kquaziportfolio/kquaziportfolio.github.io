@@ -19,3 +19,5 @@ CredManager is a credential manager written in Python. The library contains all 
 This is a collection of Flutter applications I have made. It uses a hamburger menu to select the application desired. For more information, please visit [the main repo](https://github.com/kquaziportfolio/flutter_collection).<br><br>
 ## Blog Page
 This is a Flask blog page that uses MongoDB to store posts. The production version can be found at [https://shielded-brook-48294.herokuapp.com/](https://shielded-brook-48294.herokuapp.com/). However, due to the migration from MLab to MongoDB Atlas, the website currently does not load. I am in the process of migration. For more information, please visit [the main repo](https://github.com/kquaziportfolio/flaskblog).<br><br>
+## Totoro Song
+This project is the code for my ENGR1 Lab's Final Robot Show project. The code, when uploaded to an Arduino, performs a series of actions, including playing a song and moving its arms when a button is pressed. For me information, please visit [the main repo](https://github.com/kquaziportfolio/totoro-song).<br><br>
