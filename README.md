@@ -8,3 +8,5 @@ RSALib is a library built on top of the Python [RSA](https://pypi.org/project/rs
 Scriptjacker is a payload generation and hosting tool designed for Python code execution. It works by disassembling an inputed Python function, hosting it on a Flask server (obfuscated), and decoding it on the client-side to execute the code. For more information, please visit [the main repo](https://github.com/kquaziportfolio/scriptjacker).<br><br>
 ## Strangepiler
 Strangepiler is a stack based language partially based on assembly. The interpreter (strangepiler.py) has 2 commands, a run command that takes a Strangepiler file (.WAC) and executes it, and a compiler to Python that currently does nothing. For more information, please visit [the main repo](https://github.com/kquaziportfolio/strangepiler).<br><br>
+## CredManager
+CredManager is a credential manager writtin Python. It contains all the tools needed for a web app to implement authentication. It automatically expires tokens based of random keys from Python's secrets module.For more information, please visit [the main repo](https://github.com/kquaziportfolio/credmanager).<br><br>
