@@ -9,4 +9,8 @@ Scriptjacker is a payload generation and hosting tool designed for Python code e
 ## Strangepiler
 Strangepiler is a stack based language partially based on assembly. The interpreter (strangepiler.py) has 2 commands, a run command that takes a Strangepiler file (.WAC) and executes it, and a compiler to Python that currently does nothing. For more information, please visit [the main repo](https://github.com/kquaziportfolio/strangepiler).<br><br>
 ## CredManager
-CredManager is a credential manager writtin Python. It contains all the tools needed for a web app to implement authentication. It automatically expires tokens based of random keys from Python's secrets module.For more information, please visit [the main repo](https://github.com/kquaziportfolio/credmanager).<br><br>
+CredManager is a credential manager writtin Python. It contains all the tools needed for a web app to implement authentication. It automatically expires tokens based of random keys from Python's secrets module. For more information, please visit [the main repo](https://github.com/kquaziportfolio/credmanager).<br><br>
+## Flutter Collection
+This is a collection of Flutter applications I have made. It uses a hamburger menu to select the application desired. For more information, please visit [the main repo](https://github.com/kquaziportfolio/flutter_collection).<br><br>
+# Blog Page
+This is a Flask blog page that uses MongoDB to store posts. The production version can be found at [https://shielded-brook-48294.herokuapp.com/](https://shielded-brook-48294.herokuapp.com/). However, due to the migration from MLab to MongoDB Atlas, it currently does not work. For more information, please visit [the main repo](https://github.com/kquaziportfolio/flaskblog).<br><br>
