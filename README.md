@@ -1,5 +1,10 @@
 ## Welcome to Kairan Quazi's portfolio!
 This is a sample list of projects that I have worked on since 2018 and have curated here to showcase different languages and frameworks!<br><br>
+## ACAT (Internship Project)
+ACAT (acronym for Assistive Context-Aware Toolkit) is an iconic open-source Intel Labs project that was originally designed to help Stephen Hawking communicate. During my 2019
+internship with Intel's Anticipatory Computing Lab, I worked on adding sentence prediction to the project. For more information, see my [fork of the project](https://github.com/kquaziportfolio/Intel-Labs-ACAT) or [the main project](https://github.com/intel/acat)<br><br>
+## SCU Discord Bot (Team Project)
+This is the Discord bot for the Santa Clara University Discord server. I worked on this project with the two founders, [Jason Vu](https://github.com/jasonanhvu) and [Samuel Stephen](https://github.com/Saamstep). For more information, see [the main project](https://github.com/jasonanhvu/scu-discord-bot).<br><br>
 ## RSALib
 RSALib is a library built on top of the Python [RSA](https://pypi.org/project/rsa/) library. It includes a CLI, Python library, WIP interactive shell, and other utilities related to cryptography. For more information, please visit [the main repo](https://github.com/kquaziportfolio/rsalib).<br><br>
 ## 666 Moderator
@@ -14,5 +19,3 @@ CredManager is a credential manager written in Python. The library contains all 
 This is a collection of Flutter applications I have made. It uses a hamburger menu to select the application desired. For more information, please visit [the main repo](https://github.com/kquaziportfolio/flutter_collection).<br><br>
 ## Blog Page
 This is a Flask blog page that uses MongoDB to store posts. The production version can be found at [https://shielded-brook-48294.herokuapp.com/](https://shielded-brook-48294.herokuapp.com/). However, due to the migration from MLab to MongoDB Atlas, the website currently does not load. I am in the process of migration. For more information, please visit [the main repo](https://github.com/kquaziportfolio/flaskblog).<br><br>
-## Team Projects
-For projects that I have worked on with others, pleas see [this page](/team.html)
