@@ -11,7 +11,20 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
-    <meta charset="UTF-8">
+    <!-- Default Meta Tags -->
+    <meta name="description" content="{{site.description}}">
+    <meta name="author" content="{{site.author}}">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{site.title}}">
+    <meta property="og:url" content="https://kquaziportfolio.github.io">
+    <meta property="og:image" content="https://kquaziportfolio.github.io/{{site.shortico}}">
+    <meta property="og:description" content="{{site.description}}">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary">
+    <link rel="shortcut icon" href="./{{site.shortico}}" type="image/x-icon">
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -38,7 +51,6 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-      <p>abcdefg</p>
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
