@@ -1,8 +1,5 @@
 ## Welcome to Kairan Quazi's portfolio!
 This is a sample list of projects that I have worked on since 2018 and have curated here to showcase different languages and frameworks!<br><br>
-## ACAT (Internship Project)
-ACAT (acronym for Assistive Context-Aware Toolkit) is an iconic open-source Intel Labs project that was originally designed to help Stephen Hawking communicate. During my 2019
-internship with Intel's Anticipatory Computing Lab, I worked on adding sentence prediction to the project. For more information, see my [fork of the project](https://github.com/kquaziportfolio/Intel-Labs-ACAT) or [the main project](https://github.com/intel/acat)<br><br> IMPORTANT NOTE: Due to the structure of the project, there is only one GitHub commiter for the project.
 ## SCU Discord Bot (Team Project)
 This is the Discord bot for the Santa Clara University Discord server. I worked on this project with the two founders, [Jason Vu](https://github.com/jasonanhvu) and [Samuel Stephen](https://github.com/Saamstep). For more information, see [the main project](https://github.com/jasonanhvu/scu-discord-bot).<br><br>
 ## RSALib
@@ -11,6 +8,9 @@ RSALib is a library built on top of the Python [RSA](https://pypi.org/project/rs
 666 Moderator is a Discord moderation bot built on top of the [Discord.py](https://discordpy.readthedocs.io/en/latest/) Python library. I was asked to build and maintain this bot for the Planet 666 Discord server. It includes features like a robust warning system, an automated and role-free mute system, and an auditable log system. For more information, please visit [the main repo](https://github.com/kquaziportfolio/666-Moderator).<br><br>
 ## Scriptjacker
 Scriptjacker is a payload generation and hosting tool designed for remote Python code execution. The tool works by disassembling an inputed Python function, hosting the obfuscated code object on a Flask server, and decoding the payload on the client-side to execute the code. For more information, please visit [the main repo](https://github.com/kquaziportfolio/scriptjacker).<br><br>
+## ACAT (Internship Project)
+ACAT (acronym for Assistive Context-Aware Toolkit) is an iconic open-source Intel Labs project that was originally designed to help Stephen Hawking communicate. During my 2019
+internship with Intel's Anticipatory Computing Lab, I worked on adding sentence prediction to the project. For more information, see my [fork of the project](https://github.com/kquaziportfolio/Intel-Labs-ACAT) or [the main project](https://github.com/intel/acat)<br><br> IMPORTANT NOTE: Due to the structure of the project, there is only one GitHub commiter for the project.
 ## Strangepiler
 Strangepiler is a stack-based language that is partly based on assembly. The interpreter (strangepiler.py) has 2 commands: a run command that takes a Strangepiler file (.WAC) and executes it; and a WIP compiler that currently gracefully exits without executing any code. When this project is complete, the compiler will generate a standalone Python file based on a copy of itself. For more information, please visit [the main repo](https://github.com/kquaziportfolio/strangepiler).<br><br>
 ## CredManager
