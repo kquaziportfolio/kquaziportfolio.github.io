@@ -4,7 +4,9 @@ This is a sample list of projects that I have worked on since 2018 and have cura
 This is the Discord bot for the Santa Clara University Discord server. I worked on this project with the two founders, [Jason Vu](https://github.com/jasonanhvu) and [Samuel Stephen](https://github.com/Saamstep). For more information, see [the main project](https://github.com/jasonanhvu/scu-discord-bot).<br><br>
 ## RSALib
 RSALib is a library built on top of the Python [RSA](https://pypi.org/project/rsa/) library. It includes a CLI, Python library, WIP interactive shell, and other utilities related to cryptography. For more information, please visit [the main repo](https://github.com/kquaziportfolio/rsalib).<br><br>
-## 666 Moderator (Archived)
+## 666 Moderator (No Longer Archived)
+I unarchived it because Novus is a thing.
+### Old Message:
 I have archived 666 Moderator due to the end of development of Discord.py. For more information please visit the main repo (linked below)<br>
 
 666 Moderator is a Discord moderation bot built on top of the [Discord.py](https://discordpy.readthedocs.io/en/latest/) Python library. I was asked to build and maintain this bot for the Planet 666 Discord server. It includes features like a robust warning system, an automated and role-free mute system, and an auditable log system. For more information, please visit [the main repo](https://github.com/kquaziportfolio/666-Moderator).<br><br>
