@@ -1,5 +1,11 @@
 ## Welcome to Kairan Quazi's portfolio!
 This is a sample list of projects that I have worked on since 2018 and have curated here to showcase different languages and frameworks!<br><br>
+## AutoVulnBot
+This is a Discord bot that scans files sent in Guilds the bot is in. Currently, it uses two scanning methods: YARA and MD5 hashes. When a file is sent, we scan it against both the MD5 hashes in "scannerlib/malhas.txt" and the YARA rules in "scannerlib\rules". For more information see [the main project](https://github.com/kquaziportfolio/AutoVulnBot).<br><br>
+## Jazz Generator
+This project uses LSTM cells to learn the featueres of Jazz music and synthesize it on the fly when a Discord bot is triggered. For more information, see [the main project](https://github.com/kquaziportfolio/Jazz_Generation).<br><br>
+## COEN 338 Image Compression Final Project
+This project uses Gaussian Mixture Models to cluster images in the color space, reducing the possible colors and compressing the image. For more information, see [the main project](https://github.com/kquaziportfolio/COEN338_Project).<br><br>
 ## SCU Discord Bot (Team Project)
 This is the Discord bot for the Santa Clara University Discord server. I worked on this project with the two founders, [Jason Vu](https://github.com/jasonanhvu) and [Samuel Stephen](https://github.com/Saamstep). For more information, see [the main project](https://github.com/jasonanhvu/scu-discord-bot).<br><br>
 ## RSALib
